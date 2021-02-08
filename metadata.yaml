@@ -1,0 +1,24 @@
+_repo: In-Camp-with-L-Company-Second-Regiment-New-Jersey-Volunteer-Infantry_64406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Petty, George W.
+    gutenberg_agent_id: '52887'
+    url: http://www.gutenberg.org/2009/agents/52887
+description: ''
+gutenberg_issued: '2021-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish-American War, 1898 -- Regimental histories -- United States'
+- !lcsh 'United States. Army. New Jersey Infantry Regiment, 2nd (1898)'
+- !lcc 'E660'
+- !lcsh 'Spanish-American War, 1898 -- Personal narratives'
+- GITenberg
+title: In Camp with L Company, Second Regiment New Jersey Volunteer Infantry
+url: http://www.gutenberg.org/ebooks/64406
